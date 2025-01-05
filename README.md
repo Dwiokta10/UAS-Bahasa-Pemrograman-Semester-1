@@ -401,7 +401,7 @@ if __name__ == "__main__":
 * 💳 Transfer: Rp 400,000
 * 🔄 Kembalian: Rp 9,000
 * 🕒 Waktu Pembayaran: 07:48:43
-* 📅 Tanggal: 04/01/2025
+* 📅 Tanggal: 01/01/2025
 ----------------------------------
 * Harga sudah termasuk tax dan service
 * Terimakasih sudah berkunjung di Eatplaylove Café
