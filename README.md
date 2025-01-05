@@ -386,22 +386,22 @@ if __name__ == "__main__":
  ### Hasil Tabel Output:
 |Jumlah Menu|                 Nama Menu         |    Harga    |
 |-----------| --------------------------------  | ------------|
-|     2     | Nasi Bakar Sambal Padang          |Rp 74,000.00 |
-|     2     | Sate Ayam                         |Rp 104,000.00|
-|     2     | Avocado Latte Ice                 |Rp 66,000.00 |
-|     2     | Dimsum Salmon                     |Rp 50,000.00 |
-|     2     | Soft Banana Choco Pudding         |Rp 46,000.00 | 
+|     2     | Nasi Bakar Sambal Padang          |Rp 74,000    |
+|     2     | Sate Ayam                         |Rp 104,000   |
+|     2     | Avocado Latte Ice                 |Rp 66,000    |
+|     2     | Dimsum Salmon                     |Rp 50,000    |
+|     2     | Soft Banana Choco Pudding         |Rp 46,000    | 
 
 
  ### Output Ringkasan:
-* ☕ Sub Total: Rp 344,000.00
-* 🛡 Pajak (10%): Rp 34,400.00
-* 🍴 Service (5%): Rp 17,200.00
-* 💵 Total Tagihan: Rp 395,600.00
-* 💳 Transfer: Rp 400,000.00
-* 🔄 Kembalian: Rp 4,400.00
-* 🕒 Waktu Pembayaran: 13:45:22
-* 📅 Tanggal: 01/01/2025
+* ☕ Sub Total: Rp 340,000
+* 🛡 Pajak (10%): Rp 34,000
+* 🍴 Service (5%): Rp 17,000
+* 💵 Total Tagihan: Rp 391,000
+* 💳 Transfer: Rp 400,000
+* 🔄 Kembalian: Rp 9,000
+* 🕒 Waktu Pembayaran: 07:48:43
+* 📅 Tanggal: 04/01/2025
 ----------------------------------
 * Harga sudah termasuk tax dan service
 * Terimakasih sudah berkunjung di Eatplaylove Café
